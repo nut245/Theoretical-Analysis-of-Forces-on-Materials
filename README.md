@@ -19,8 +19,8 @@ showcase such data consistantly.
 
 This Library requires the following modules:
 
-- [DataGeneration](DataGeneration\TensileStressStrainValues.py)
-- [Plotting](Plotting\PlottingStressStrainCurve.py)
+- [DataGeneration](DataGeneration/TensileStressStrainValues.py)
+- [Plotting](Plotting/PlottingStressStrainCurve.py)
 
 ## Installation
 
