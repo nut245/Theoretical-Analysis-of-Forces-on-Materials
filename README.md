@@ -1,6 +1,4 @@
 # Theoretical-Analysis-of-Forces-on-Materials
-A Python project undertaken to complete a physics research report
-
 The Theoretical Analysis of Forces on Materials Library simulates given materials 
 under tensile stresses, to investigate the capabilities and strengths of materials 
 in a controlled and comparable manner. It is made up of modules and files with 
