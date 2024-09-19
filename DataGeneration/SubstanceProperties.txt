@@ -1,0 +1,11 @@
+### MUST FOLLOW '[property] = [standard international unit value]' TO PARSE CORRECTLY ###
+
+Ultimate_Tensile_Strength = 90000
+
+Yield_Strength = 70000
+
+Youngs_Modulus = 28000000
+(^ or called modulus of elasticity)
+
+Max_Elongation = 0.1
+(^ max elongation must be in decimal form)
